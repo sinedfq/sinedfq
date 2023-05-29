@@ -9,6 +9,16 @@
 - :seedling: Exploring Technical Content Writing. <br>
 - :zap: In my free time, i study programming languages such as Python, JS and C/C++ <br>
 <br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=Runge-Kutta-and-Cubic-spline)](https://github.com/sinedfq/Runge-Kutta-and-Cubic-spline)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <div align = "center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedfq&layout=compact)](https://github.com/sinedfq?tab=repositories)
