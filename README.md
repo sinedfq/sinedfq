@@ -9,7 +9,7 @@
 - :seedling: Exploring Technical Content Writing. <br>
 - :zap: In my free time, i study programming languages such as Python, JS and C/C++ <br>
 <br>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedfq&layout=compact)](https://github.com/sinedfq?tab=repositories)
 
 <div>
