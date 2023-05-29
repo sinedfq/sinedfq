@@ -3,13 +3,13 @@
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedfq&layout=compact)](https://github.com/sinedfq?tab=repositories)
 
 <h1 align="center">BIO</h1>
-- :telescope: I’m study at SIBSUiT and start 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I’m study at SIBSUiT and start <br>
+- :seedling: Exploring Technical Content Writing. <br>
 - :zap: In my free time, i study programming languages such as Python, JS and C/C++
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedfq&layout=compact)](https://github.com/sinedfq?tab=repositories)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
