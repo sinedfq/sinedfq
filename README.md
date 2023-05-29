@@ -13,11 +13,11 @@
 <h1 align="center">Recent projects</h1>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=Runge-Kutta-and-Cubic-spline)](https://github.com/sinedfq/Runge-Kutta-and-Cubic-spline)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=VisulProg_CW)](https://github.com/sinedfq/VisulProg_CW)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=Runge-Kutta-and-Cubic-spline)](https://github.com/sinedfq/Runge-Kutta-and-Cubic-spline) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=VisulProg_CW)](https://github.com/sinedfq/VisulProg_CW)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=BitParser)](https://github.com/sinedfq/BitParser)
+
+
 
 
 <h1 align="center">Languages</h1>
