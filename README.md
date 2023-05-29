@@ -5,8 +5,8 @@
 
 
 <h1 align="center">BIO</h1>
-- :zap: I’m study at SIBSUiT and start <br>
-- :zap: Exploring Technical Content Writing. <br>
+- :zap: I’m study at SIBSUiT <br>
+- :zap: My name is Denis <br>
 - :zap: In my free time, i study programming languages such as Python, JS and C/C++ <br>
 <br>
 
