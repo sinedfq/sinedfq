@@ -7,9 +7,7 @@
 
 <h1 align="center">BIO</h1>
 - :telescope: I’m study at SIBSUiT and start 
-- 
 - :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, i study programming languages such as Python, JS and C/C++
 
 
