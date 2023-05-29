@@ -23,7 +23,7 @@
 <h1 align="center">Languages</h1>
 <br>
 
-<div align = "center">
+<div align = "left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedfq)](https://github.com/sinedfq)
 
