@@ -6,7 +6,7 @@
 
 <h1 align="center">BIO</h1>
 My name is Denis. On this moment i study at SibSUTIS in Novosibirsk. <br>
-In my free time, I study programming languages such as <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>  Python, C/C++ and JS, as well as HTML and CSS
+In my free time, I study programming languages such as 🐍 Python, ©️ C/C++ and JS, as well as HTML and CSS
 <br>
 
 <h1 align="center">Recent projects</h1>
