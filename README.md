@@ -20,11 +20,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=BitParser)](https://github.com/sinedfq/BitParser)
 
 
-
+<h1 align="center">Languages</h1>
+<br>
 
 <div align = "center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedfq&layout=compact)](https://github.com/sinedfq?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedfq)](https://github.com/sinedfq)
 
 </div>
 
