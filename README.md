@@ -23,7 +23,7 @@ In my free time, I study programming languages such as 🐍 Python, C/C++ and JS
 <h1 align="center">Stack-oriented programming language</h1>
 <br>
 
-<div align = "left">
+<div align = "center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedfq)](https://github.com/sinedfq)
 
