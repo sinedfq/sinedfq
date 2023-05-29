@@ -10,11 +10,14 @@
 - :zap: In my free time, i study programming languages such as Python, JS and C/C++ <br>
 <br>
 
+<h1 align="center">Recent projects</h1>
+<br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=Runge-Kutta-and-Cubic-spline)](https://github.com/sinedfq/Runge-Kutta-and-Cubic-spline)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=VisulProg_CW)](https://github.com/sinedfq/VisulProg_CW)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=github-readme-stats)](https://github.com/sinedfq/BitParser)
 
 
 
