@@ -8,9 +8,10 @@
 - :telescope: I’m study at SIBSUiT and start <br>
 - :seedling: Exploring Technical Content Writing. <br>
 - :zap: In my free time, i study programming languages such as Python, JS and C/C++ <br>
-<div align = "center">
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedfq&layout=compact)](https://github.com/sinedfq?tab=repositories)
-</div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>&nbsp;
