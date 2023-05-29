@@ -9,8 +9,11 @@
 - :seedling: Exploring Technical Content Writing. <br>
 - :zap: In my free time, i study programming languages such as Python, JS and C/C++ <br>
 <br>
+<div align = "center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedfq&layout=compact)](https://github.com/sinedfq?tab=repositories)
+
+</div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
