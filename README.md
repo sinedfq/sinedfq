@@ -17,7 +17,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=VisulProg_CW)](https://github.com/sinedfq/VisulProg_CW)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=github-readme-stats)](https://github.com/sinedfq/BitParser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=BitParser)](https://github.com/sinedfq/BitParser)
 
 
 
