@@ -20,7 +20,7 @@ In my free time, I study programming languages such as 🐍 Python, C/C++ and JS
 
 
 
-<h1 align="center">Languages</h1>
+<h1 align="center">Stack-oriented programming language</h1>
 <br>
 
 <div align = "left">
@@ -29,7 +29,7 @@ In my free time, I study programming languages such as 🐍 Python, C/C++ and JS
 
 </div>
 
-<div>
+<div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>&nbsp;
