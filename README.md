@@ -7,7 +7,7 @@
 <h1 align="center">BIO</h1>
 - :telescope: I’m study at SIBSUiT and start <br>
 - :seedling: Exploring Technical Content Writing. <br>
-- :zap: In my free time, i study programming languages such as Python, JS and C/C++
+- :zap: In my free time, i study programming languages such as Python, JS and C/C++ <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedfq&layout=compact)](https://github.com/sinedfq?tab=repositories)
 
