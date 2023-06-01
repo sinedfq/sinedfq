@@ -14,6 +14,7 @@ In my free time, I study programming languages such as 🐍 Python, C/C++ and JS
 
 <div align = "center">
 
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=Runge-Kutta-and-Cubic-spline)](https://github.com/sinedfq/Runge-Kutta-and-Cubic-spline) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=VisulProg_CW)](https://github.com/sinedfq/VisulProg_CW)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=BitParser)](https://github.com/sinedfq/BitParser)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedfq&repo=AiroportTable)](https://github.com/sinedfq/AiroportTable)
