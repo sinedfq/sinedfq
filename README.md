@@ -5,8 +5,10 @@
 
 
 <h1 align="center">BIO</h1>
+<div align = "center">
 My name is Denis. On this moment i study at SibSUTIS in Novosibirsk. <br>
 In my free time, I study programming languages such as Python, C/C++ and JS, as well as HTML and CSS
+</div>
 <br>
 
 <h1 align="center">Recent projects</h1>
