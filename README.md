@@ -11,9 +11,6 @@ In my free time, I study programming languages such as Python, C/C++ and JS, as 
 </div>
 <br>
 
-<h1 align="center">Recent projects</h1>
-<br>
-
 <div align = "center">
 
   
