@@ -1,15 +1,13 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/huharev1" target="_blank">Denis</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia </h3>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>
 
-
-
-<h1 align="center">BIO</h1>
 <div align = "center">
-My name is Denis. On this moment i study at SibSUTIS in Novosibirsk. <br>
-In my free time, I study programming languages such as Python, C/C++ and JS, as well as HTML and CSS
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
+
 </div>
-<br>
 
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;
